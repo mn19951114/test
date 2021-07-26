@@ -1,4 +1,4 @@
-package com.example.myday1.jedis;
+package com.example.wx.appbackend.service;
 import redis.clients.jedis.Jedis;
 
 

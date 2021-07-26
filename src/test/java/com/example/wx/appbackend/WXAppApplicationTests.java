@@ -1,10 +1,10 @@
-package com.example.myday1;
+package com.example.wx.appbackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Myday1ApplicationTests {
+class WXAppApplicationTests {
 
     @Test
     void contextLoads() {

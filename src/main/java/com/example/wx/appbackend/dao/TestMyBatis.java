@@ -1,4 +1,4 @@
-package com.example.myday1.mybatis;
+package com.example.wx.appbackend.dao;
 
 public class TestMyBatis {
     public static void main(String[] args) {

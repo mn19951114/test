@@ -1,4 +1,4 @@
-package com.example.myday1.redisson;
+package com.example.wx.appbackend.redisson;
 
 import org.redisson.config.*;
 import org.springframework.context.annotation.Bean;

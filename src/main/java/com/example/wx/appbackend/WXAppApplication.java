@@ -1,13 +1,13 @@
-package com.example.myday1;
+package com.example.wx.appbackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Myday1Application {
+public class WXAppApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Myday1Application.class, args);
+        SpringApplication.run(WXAppApplication.class, args);
     }
 
 }
